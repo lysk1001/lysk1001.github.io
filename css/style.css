@@ -256,6 +256,13 @@ h3{
     padding-top: 100px;
 }
 
+.Life2{
+    width: 80%;
+    margin: auto;
+    text-align: center;
+    padding-top: 5px;
+}
+
 .Life-col{
     flex-basis: 31%;
     border-radius: 10px;
